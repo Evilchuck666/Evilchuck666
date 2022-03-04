@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Evilchuck666
-- 👀 I’m interested in PHP, JavaScript, .NET, Java and C++
-- 🌱 I’m currently learning a little bit of Vue.js
+- 👀 I’m interested in PHP
 - 📫 How to reach me:
 
             carlos.martinez.medina1992@gmail.com
