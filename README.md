@@ -3,4 +3,4 @@
 - 📫 How to reach me:
 
             carlos.martinez.medina1992@gmail.com
-            https://www.linkedin.com/in/carlos-martínez-medina-619ab5128
+            https://www.linkedin.com/in/carlos-martínez-medina-619ab5128 (Deactivated account)
